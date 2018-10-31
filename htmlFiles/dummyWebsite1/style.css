@@ -1,0 +1,9 @@
+.top{
+  /* text-align: center; */
+  /* position: relative; */
+  width: 95%;
+  height: 40px;
+  background-color: red;
+  /* overflow-y: inherit; */
+  display: flex;
+}
