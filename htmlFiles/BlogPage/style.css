@@ -1,0 +1,17 @@
+/* background color */
+body{
+  background-color:#E5F2F7;
+}
+
+h1{
+  border: 1px solid black;
+}
+
+
+h2{
+  color: purple;
+}
+
+input{
+  border: 2px solid rgb(144,128,128)
+}
